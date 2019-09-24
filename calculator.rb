@@ -1,3 +1,3 @@
 # Add your variables here
 
-first_number = " hey"
+first_number = 0
